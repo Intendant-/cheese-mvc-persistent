@@ -1,3 +1,16 @@
 body {
     font-family: sans-serif;
 }
+
+.navigation {
+    padding-bottom: 15px;
+}
+
+.list-group-item {
+    border-left-width: 0;
+    border-right-width: 0;
+}
+
+.list-group-item:last-child {
+    border-bottom-width: 0;
+}
